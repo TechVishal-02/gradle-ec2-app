@@ -1,0 +1,7 @@
+# Ignore Gradle build files
+/build/
+/.gradle/
+/out/
+*.log
+*.class
+
